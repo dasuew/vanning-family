@@ -1,5 +1,5 @@
 import React from "react"
-import JSONData from "../../content/vanning_family.json"
+import JSONData from "../../content/complete_posts.json"
 import Post from "./post";
 
 const PostCollection = () => (
@@ -11,9 +11,9 @@ const PostCollection = () => (
         return <div className="flex-auto w-64 shadow-lg p-6 m-4" key={`content_title_${index}`}>
           <div className="text-sm">{data.date}</div>
           <div className="font-bold">{data.title}</div>
-          <div dangerouslySetInnerHTML={{ __html: data.categories }} />
+          <div>{data.categories}</div>
           <Post content={data.content}></Post>
-        </div>
+          </div>
       })}
     </div>
   </div>
