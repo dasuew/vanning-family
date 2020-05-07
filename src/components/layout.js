@@ -28,8 +28,7 @@ const Layout = ({ children }) => {
       <Header siteTitle={data.site.siteMetadata.title} />
       <div className="p-10 font-sans">
         <main>{children}</main>
-        <footer>
-        </footer>
+        <footer />
       </div>
     </>
   )

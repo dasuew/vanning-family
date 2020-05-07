@@ -1,14 +1,15 @@
 import React from "react"
-import { Link } from "gatsby"
 
 import Layout from "../components/layout"
-import Image from "../components/image"
 import SEO from "../components/seo"
-import PostCollection  from "../components/postCollection"
+
+import Post from "./post";
+import PostCollection from "../components/postCollection"
 
 const IndexPage = () => (
   <Layout>
-    <SEO title="Home" />    
+
+    <SEO title="Home" />
     <PostCollection />
   </Layout>
 )
