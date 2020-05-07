@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `Vanning family`,
+    description: `A blog about travel 9 weeks through to sweden and norway with family in a Nugget.`,
+    author: `@dasuew`,
   },
   pathPrefix: "/vanning-family",
   plugins: [
