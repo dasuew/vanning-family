@@ -7,14 +7,21 @@ module.exports = {
   pathPrefix: "/vanning-family",
   plugins: [
     `gatsby-plugin-react-helmet`,
+    `gatsby-transformer-json`,
+    `gatsby-transformer-sharp`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `images`,
-        path: `${__dirname}/src/images`,
+        path: `${__dirname}/data/images`,
       },
-    },
-    `gatsby-transformer-sharp`,
+    }, 
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `./data/`,
+      },
+    },    
     `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-plugin-manifest`,
