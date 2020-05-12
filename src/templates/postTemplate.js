@@ -13,7 +13,7 @@ export const query = graphql`
             content
             images
     }
-  }
+}  
 `;
 
 // images {
@@ -26,12 +26,14 @@ export const query = graphql`
 
 
 const Post = ({ data }) => {
-    const post = data.postsJson
+    const { postsJson: post } = data
+    // const images = post.images.split("||")
+
     return (
         <Layout>
             <div className="font-bold">{post.title}</div>
             <div className="text-sm">{post.date}</div>
-            <div dangerouslySetInnerHTML={{ __html: post.content }} />
+            <div dangerouslySetInnerHTML={{ __html: post.content }} />            
             {/* <Image
                 fluid={post.images.childImageSharp.fluid}
                 alt={post.id}
