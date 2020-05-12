@@ -3,15 +3,10 @@ import PropTypes from "prop-types"
 import React from "react"
 
 const Header = ({ siteTitle }) => (
-  <header className="bg-purple-900">
-    <div
-      className="p-6"
-    >
+  <header className="bg-purple-900 fixed w-screen">
+    <div className="p-6">
       <div className="text-4xl font-sans font-bold">
-        <Link
-          to="/"
-          className="uppercase text-white"
-        >
+        <Link to="/" className="uppercase text-purple-100">
           {siteTitle}
         </Link>
       </div>

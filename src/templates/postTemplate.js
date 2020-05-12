@@ -31,14 +31,16 @@ const Post = ({ data }) => {
 
     return (
         <Layout>
-            <div className="font-bold">{post.title}</div>
-            <div className="text-sm">{post.date}</div>
-            <div dangerouslySetInnerHTML={{ __html: post.content }} />            
-            {/* <Image
+            <div className="p-10 flex flex-col">
+                <div className="font-bold text-yellow-500 text-xl">{post.title}</div>
+                <div className="text-sm text-yellow-500 mb-5">{post.date}</div>
+                <div className="text-purple-100" dangerouslySetInnerHTML={{ __html: post.content }} />
+                {/* <Image
                 fluid={post.images.childImageSharp.fluid}
                 alt={post.id}
                 className="w-1/4"
             /> */}
+            </div>
         </Layout>
     )
 }
