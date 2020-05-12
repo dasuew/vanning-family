@@ -7,7 +7,7 @@ exports.createPages = async ({ actions: { createPage }, graphql }) => {
         allPostsJson {
           edges {
             node {
-              id
+              slug
             }
           }
         }
@@ -19,10 +19,10 @@ exports.createPages = async ({ actions: { createPage }, graphql }) => {
         const template = path.resolve('./src/templates/postTemplate.js')
 
         createPage({
-            path: `/posts/${post.id}`,
+            path: `/posts/${post.slug}`,
             component: template,
             context: {
-                id: post.id
+                slug: post.slug
             }
         })
     })

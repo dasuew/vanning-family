@@ -4,12 +4,14 @@ import Image from "gatsby-image"
 import Layout from "../components/layout"
 
 export const query = graphql`
-    query ($id: String!) {
-        postsJson(id: {eq: $id}) {
+    query ($slug: String!) {
+        postsJson(slug: {eq: $slug}) {
+            slug
             id
             title
             date
-            content            
+            content
+            images
     }
   }
 `;
