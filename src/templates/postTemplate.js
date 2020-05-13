@@ -3,18 +3,21 @@ import { graphql } from "gatsby"
 import Image from "gatsby-image"
 import Layout from "../components/layout"
 
-export const query = graphql`
-    query ($slug: String!) {
-        postsJson(slug: {eq: $slug}) {
-            slug
-            id
-            title
-            date
-            content
-            images
-    }
-}  
-`;
+export const postQuery = graphql`
+    query BlogPostBySlug($slug: String) {
+        markdownRemark(frontmatter: { slug: { eq: $slug} }) {
+            html
+            frontmatter {
+                title
+                slug
+                date
+                lowlight
+                highlight
+                advice
+                tfi
+            }
+        }    
+    }`
 
 // images {
 //     childImageSharp{
@@ -25,16 +28,27 @@ export const query = graphql`
 // }
 
 
-const Post = ({ data }) => {
-    const { postsJson: post } = data
-    // const images = post.images.split("||")
+const Template = ({ data }) => {
+    const { markdownRemark: post } = data
 
     return (
         <Layout>
-            <div className="p-10 flex flex-col">
-                <div className="font-bold text-yellow-500 text-xl">{post.title}</div>
-                <div className="text-sm text-yellow-500 mb-5">{post.date}</div>
-                <div className="text-purple-100" dangerouslySetInnerHTML={{ __html: post.content }} />
+            <div className="p-10 flex flex-col text-purple-100">
+                <div className="font-bold text-yellow-500 text-xl">{post.frontmatter.title}</div>
+                <div className="text-sm text-yellow-500 mb-5">{post.frontmatter.date}</div>
+                <div className="text-purple-100 mb-5" dangerouslySetInnerHTML={{ __html: post.html }} />
+                <div>
+                    <span className="font-bold">Empfehlung: </span>{post.frontmatter.advice}
+                </div>
+                <div>
+                    <span className="font-bold">Highlight: </span>{post.frontmatter.highlight}
+                </div>
+                <div>
+                    <span className="font-bold">Lowlight: </span>{post.frontmatter.lowlight}
+                </div>
+                <div>
+                    <span className="font-bold">TFI: </span>{(post.frontmatter.tfi !== undefined ? post.frontmatter.tfi : ' - ')}
+                </div>
                 {/* <Image
                 fluid={post.images.childImageSharp.fluid}
                 alt={post.id}
@@ -45,4 +59,4 @@ const Post = ({ data }) => {
     )
 }
 
-export default Post
+export default Template

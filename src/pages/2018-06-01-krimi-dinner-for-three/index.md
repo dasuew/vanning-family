@@ -1,8 +1,8 @@
 ---
-title: "Krimi dinner for three",
+title: "Krimi dinner for three"
 slug: "krimi-dinner-for-three"
-date: "2018-06-01",
-location: "Schweden",
+date: "2018-06-01"
+location: "Schweden"
 advice: "Zum spontanen übernachten am besten eher ins Landesinnere. An Badestellen gibt es Sanitäranlagen und man darf dort stehen."
 highlight: "Unterstützung durch ansässige Restaurantbesitzer."
 lowlight: "Eindeutig die toten Fische."

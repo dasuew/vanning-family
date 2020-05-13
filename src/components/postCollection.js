@@ -10,7 +10,7 @@ const PostCollection = () => (
         return new Date(b.date) - new Date(a.date);
       }).map((data, index) => {
         return (
-          <Link className="flex-none w-1/2 p-6" to={`/posts/${data.slug}`} key={index}>
+          <Link className="flex-none w-1/2 p-6" to={`/${data.slug}`} key={index}>
             <div key={`content_title_${index}`}>
               <div className="font-bold text-yellow-500 text-xl">{data.title}</div>
               <div className="text-sm text-purple-100">{data.date}</div>

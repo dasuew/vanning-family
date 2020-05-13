@@ -9,18 +9,19 @@ module.exports = {
     `gatsby-plugin-react-helmet`,
     `gatsby-transformer-json`,
     `gatsby-transformer-sharp`,
+    `gatsby-transformer-remark`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `images`,
-        path: `${__dirname}/data/images`,
+        path: `${__dirname}/src/images`,
       },
     }, 
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        path: `${__dirname}/src/pages`,
         name: 'pages',
+        path: `${__dirname}/src/pages`,
       },
     },
     {

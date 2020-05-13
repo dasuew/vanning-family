@@ -1,29 +1,46 @@
 const path = require('path');
 
 exports.createPages = async ({ actions: { createPage }, graphql }) => {
-
-    const results = await graphql(`
+  return await graphql(`
      {
-        allPostsJson {
+        allMarkdownRemark {
           edges {
             node {
-              slug
+              html
+              id
+              frontmatter {
+                title
+                slug
+                date
+                highlight
+                lowlight
+                advice
+                tfi
+              }
             }
           }
         }
       }
     `)
+    .then(results => {
+      if (results.errors) {
+        return Promise.reject(results.errors)
+      }
 
-    results.data.allPostsJson.edges.forEach(edge => {
-        const post = edge.node        
-        const template = path.resolve('./src/templates/postTemplate.js')
+      results.data.allMarkdownRemark.edges.forEach(edge => {
+        const post = edge.node
+        const template = path.resolve('src/templates/postTemplate.js')
 
         createPage({
-            path: `/posts/${post.slug}`,
-            component: template,
-            context: {
-                slug: post.slug
-            }
+          path: `${post.frontmatter.slug}`,
+          component: template,
+          context: {
+              slug: post.frontmatter.slug
+          }
         })
+      })
+
     })
+
+
 }

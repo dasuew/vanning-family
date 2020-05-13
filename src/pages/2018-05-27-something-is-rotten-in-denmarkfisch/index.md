@@ -1,5 +1,5 @@
 ---
-title: "Something is rotten in Denmark...Fisch?!",
+title: "Something is rotten in Denmark...Fisch?!"
 slug: "something-is-rotten-in-denmarkfisch"
 date: "2018-05-27"
 location: "Dänemark"

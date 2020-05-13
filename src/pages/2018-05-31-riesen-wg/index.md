@@ -2,7 +2,7 @@
 title: "Riesen WG"
 slug: "riesen-wg"
 location": "Dänemark"
-date: "May 31, 2018-05-31"
+date: "2018-05-31"
 advice: "Besuch in Kopenhagen!"
 highlight: "Besuch bei meinem alten Schulkameraden."
 lowlight: "Busfahrt in und aus der Stadt keine Klimaanlage"
