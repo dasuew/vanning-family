@@ -1,7 +1,7 @@
 ---
 title: "Kein schöner Land"
-slug": "kein-schoner-land"
-date": "2018-05-26"
+slug: "kein-schoener-land"
+date: "2018-05-26"
 location: "Deutschland"
 highlight: "Kalles neue Werder Bremen Lätzchen (Breiverteidiger und Lätzchenwart)"
 lowlight: "Stau"

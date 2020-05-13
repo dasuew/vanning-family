@@ -7,6 +7,7 @@ export const postQuery = graphql`
     query BlogPostBySlug($slug: String) {
         markdownRemark(frontmatter: { slug: { eq: $slug} }) {
             html
+            id
             frontmatter {
                 title
                 slug
