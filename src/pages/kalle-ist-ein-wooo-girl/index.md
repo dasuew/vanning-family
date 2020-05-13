@@ -1,0 +1,13 @@
+--- 
+title: "Kalle ist ein Wooo girl"
+slug: "kalle-ist-ein-wooo-girl"
+date: "2018-06-10"
+location: "Schweden"
+advice: "Essen bei Ikea!"
+lowlight: "Zu lange geshoppt."
+highlight: "Ersten Abend, den wir am See genießen konnten."
+tfi: "7"
+---
+
+Heute war Shoppingtag...wer weiß wann wir das nächste Mal in einer großen Stadt sind....okay zugegeben es wird Mitte Juni sein, aber nichts desto trotz hätten wir Lust und es bestand auch die Notwendigkeit einkaufen zu gehen. Ja und das ist das Tolle an Schweden...kein Problem am Sonntag. Alle Läden hatten auf. So fuhren wir erst kurz zu einem Outdoorladen, wo Uwe fleißig shoppte, während Caro dem schlafenden Kalle endlich mal wieder die Fingernägel schnitt. Danach ging dann zu Ikea...ein idealer Ort um das WLAN zu nutzen, Mittag zu essen und sich einen Vorrat an Zimtschnecken zu besorgen. Naja und vielleicht ist das ein oder andere in den Warenkorb gerutscht...Kalle hat, während wir uns über die extra großen Portionen hergemacht haben, seinen von Caro selbstgemachten Brei zu sich genommen...man höre und staune...ganz ohne Thermomix (den dürfte Caro nicht einpacken...angeblich zu sperrig) Als er fertig war hat er dies laut kund getan und das ganze Ikea Restaurant unterhalten...und das war nicht einfach, denn es war voll, mit vielen Kindern und laut...aber er hat alle übertönt...halt ein richtiges Wooo girl (Quelle der Definition: How I met your mother). Uns wurden einige Kommentare auf Schwedisch zugerufen, aber wir haben nichts verstanden...gut, dass die Schweden so sehr kinderlieb sind.Allgemein zu den Schweden, so wie wir sie bis jetzt kennen gelernt haben, ist zu sagen, dass sie sehr sehr freundlich, offen, hilfsbereit und höflich sind. Selbst wenn sie kaum ein Wort Englisch können, halten sie die Konversation so lange am Laufen, bis man weiß wie derjenige heißt und wieviel Kinder er hat. Die meisten haben uns vom Norden vorgeschwärmt wo es viele ruhige Orte gibt. Sie scheinen die Abgeschiedenheit zu mögen, sind aber trotzdem sehr gesellig und offen. So unser erster Eindruck....Dann ging es weiter gen Landesinnere wieder zu einem Campingplatz direkt an dem schönen See \u00c4lgasjön auf dem Campingplatz Strandbadet[Camping Älghult](href="https://goo.gl/maps/pLwf7dUotLu"). Dieses Mal teilen wir uns den Platz mit einem anderen deutschen Camper.Kalle dürfte das erste Mal in seinem Zelt draußen schlafen...zumindest so lange wie wir noch wach waren...dann dürfte er mit uns reinkommen.
+    
