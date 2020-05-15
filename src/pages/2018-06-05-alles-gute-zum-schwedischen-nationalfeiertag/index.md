@@ -2,6 +2,7 @@
 title: "Alles Gute zum schwedischen Nationalfeiertag"
 slug: "alles-gute-zum-schwedischen-nationalfeiertag"
 date: "2018-06-05"
+published: true
 location: "Schweden"
 highlight: "Die Radtour mit Kinderwagen."
 lowlight: "Entfernung der Grasflecken aus Kalles Kleidung."

@@ -2,6 +2,7 @@
 title: "Kein schöner Land"
 slug: "kein-schoener-land"
 date: "2018-05-26"
+published: true
 location: "Deutschland"
 highlight: "Kalles neue Werder Bremen Lätzchen (Breiverteidiger und Lätzchenwart)"
 lowlight: "Stau"

@@ -1,0 +1,13 @@
+---
+title: "Wahrscheinlichkeit ist wie ein Bikini"
+slug: "stochastik-wahrscheinlichkeit-ist-wie-ein-bikini"
+date: "2018-06-13"
+published: true
+location: "Schweden"
+highlight: "Kalles neue Schlafposition."
+lowlight: "Zecken"
+advice: "Wetterbericht in Frage stellen und hohe Gräser meiden"
+tfi: "6"
+---
+
+Vorbereitet für Gewitter und Starkregen, legten wir nun unseren Haushaltstag ein. Nach einem gemütlichen Frühstück, in der nach dem Wetterbericht letzten Sonne dieses Tages, beschlossen wir Kalles Vormittagsschläfchen zu nutzen um ihm und uns etwas Leckeres zu kochen. Immerhin hatten wir noch 2 Stunden Zeit bevor der zu 95% wahrscheinliche angesagte Regen kommen sollte. Pünktlich 13 Uhr kamen dann auch schon die ersten dunklen Wolken und wir sahen zu Kind und Kegel (letzteres war unser leckeres Essen) trocken ins Zuhause zu bringen. 1, 2, 3 Stunden später war immer noch kein Regentropfen gefallen. So viel zu 95% Wahrscheinlichkeit für Regen...wie man Opi zu sagen pflegte: Wahrscheinlichkeit ist wie ein Bikini...zeigt viel aber verbirgt das Wesentliche. So beschlossen wir dem Wetterbericht mit seinen ganzen Wahrscheinlichkeiten zu trotzen und einen Spaziergang zu machen. Leider hatten wir nicht wirklich viel Auswahl und pirschten durch das Unterholz...während die besorgt Mama immer mit dem Hinwies "Achtung Zecken" über die langen Grashalme sprang (natürlich galant wie eine Gazelle...Uwe wird das sehr gern bestätigen... nicht wahr!!!!) stapfte Uwe mit Kalle umgebunden durchs Gestrüpp. Und was war das Ende der Geschichte....eine über Kalles Gesicht huschende Zecke und eine bei Uwe am Fuß....(ich verkneife mir einfach mal die Moral der Geschichte;))Am Ende kam der erwartete Regen abends, mit einer vorhergesagten Wahrscheinlichkeit von 25% ;)Das Einschlafen ist bei Kalle weiterhin herausfordernd. Vor 21:30/22:00 Uhr bekommen wir ihn eigentlich nie zum Schlafen. Irgendwie haben wir auch noch keine perfekte Lösung gefunden wo wir ihn einschlafen lassen, da es keinen Ort gibt, wo wir ihn unbeaufsichtigt liegen lassen können. Daher handhaben wir das so, dass er unten auf der umgeklappten Rücksitzbank einschläft und wir ihn beim ins Bett gehen mit hoch nehmen. Auch wenn es manchmal etwas einschränkend wirkt, ist es jedoch auch sehr spannend Kalle im Schlaf zu beobachten. Denn er liegt keineswegs still da, sondernd ändert seine Position ständig...ab und zu dreht er sich auf den Bauch, schaut sich um und wenn er einen von uns sieht klappt sein Kopf nach unten und er schläft genau so wieder ein. Ganz neu in seinem Repertoire ist die "BauchHinternHoch"-Lage. Das muss er jetzt nur noch am Tage machen, dann funktioniert auch endlich das krabbeln.

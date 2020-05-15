@@ -2,6 +2,7 @@
 title: "Vergesslichkeit wird bestraft"
 slug: "vergesslichkeit-wird-bestraft"
 date: "2018-05-29"
+published: true
 location: "Dänemark"
 highlight: "Nyhaven mit seinem ganz besonderen Charme"
 lowlight: "Viele Fahrradladenbesuche"

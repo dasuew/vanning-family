@@ -2,6 +2,7 @@
 title: "Die Zeit ist stehen geblieben"
 slug: "die-zeit-ist-stehen-geblieben"
 date: "2018-06-11"
+published: true
 location: "Schweden"
 highlight: "Gewaschene Wäsche."
 lowlight: "Stellplatz und das Wetter (es hat geregnet)."

@@ -2,6 +2,7 @@
 title: "Die Seele baumeln lassen"
 slug: "die-seele-baumeln-lassen"
 date: "2018-06-04"
+published: true
 location": "Schweden"
 highlight: "Die Zimtschnecken aus dem ICA."
 lowlight: "Der gezwungen Verzicht auf die Hängematte."

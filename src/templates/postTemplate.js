@@ -31,13 +31,14 @@ export const postQuery = graphql`
 
 const Template = ({ data }) => {
     const { markdownRemark: post } = data
+    const dateOptions = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' }
 
     return (
         <Layout>
-            <div className="p-10 flex flex-col text-purple-100">
+            <div className="mt-20 pb-20 flex w-1/3 mx-auto flex-col text-purple-100">
                 <div className="font-bold text-yellow-500 text-xl">{post.frontmatter.title}</div>
-                <div className="text-sm text-yellow-500 mb-5">{post.frontmatter.date}</div>
-                <div className="text-purple-100 mb-5" dangerouslySetInnerHTML={{ __html: post.html }} />
+                <div className="text-sm text-yellow-500 mb-5">{new Date(post.frontmatter.date).toLocaleDateString("de-DE", dateOptions).toString()}</div>
+                <div className="text-purple-100 mb-5 text-justify" dangerouslySetInnerHTML={{ __html: post.html }} />
                 <div>
                     <span className="font-bold">Empfehlung: </span>{post.frontmatter.advice}
                 </div>

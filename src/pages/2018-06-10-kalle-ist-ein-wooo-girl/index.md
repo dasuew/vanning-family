@@ -2,6 +2,7 @@
 title: "Kalle ist ein Wooo girl"
 slug: "kalle-ist-ein-wooo-girl"
 date: "2018-06-10"
+published: true
 location: "Schweden"
 advice: "Essen bei Ikea!"
 lowlight: "Zu lange geshoppt."

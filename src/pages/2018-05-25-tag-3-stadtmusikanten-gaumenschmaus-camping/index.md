@@ -2,6 +2,7 @@
 title: "Geschmacksexplosion in der Heimat der Stadtmusikanten"
 slug: "tag-3-stadtmusikanten-gaumenschmaus-camping"
 date: "2018-05-25"
+published: true
 location: "Deutschland"
 highlight: "unumstritten Bennis Grillkünste"
 lowlight: "unruhige erste Nacht"

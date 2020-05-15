@@ -4,31 +4,35 @@ import { Link } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
-const IndexPage = ({ data }) => (
-  <Layout>
-    <SEO title="Home"/>
-    <div>
-      <div className="flex flex-wrap">      
-        {data.allMarkdownRemark.edges.sort(function (a, b) {
-          return new Date(b.date) - new Date(a.date);
-        }).map((data, index) =>
-          (
-            <Link className="flex-none w-1/2 p-6" to={`/${data.node.frontmatter.slug}`} key={index}>
-              <div>
-                <div className="font-bold text-yellow-500 text-xl">{data.node.frontmatter.title}</div>
-                <div className="text-sm text-purple-100">{data.node.frontmatter.date}</div>
-              </div>
-            </Link>
-          )
-        )}
+const IndexPage = ({ data }) => {
+  const dateOptions = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' }
+
+  return (
+    <Layout>
+      <SEO title="Home" />
+      <div className="flex flex-wrap w-1/3 mx-auto">
+        {data.allMarkdownRemark.edges
+          .map((data, index) =>
+            (
+              <Link className="flex w-full mt-10" to={`/${data.node.frontmatter.slug}`} key={index}>
+                <div>
+                  <div className="font-bold text-yellow-500 text-xl">{data.node.frontmatter.title}</div>
+                  <div className="text-sm text-purple-100">{new Date(data.node.frontmatter.date).toLocaleDateString("de-DE", dateOptions).toString()}</div>
+                </div>
+              </Link>
+            )
+          )}
       </div>
-    </div>
-  </Layout>
-)
+    </Layout>
+  )
+}
 
 export const pageQuery = graphql`
   query IndexQuery {
-    allMarkdownRemark {
+    allMarkdownRemark (
+      sort: {fields: [frontmatter___date], order: DESC}
+      filter: {frontmatter: {published: {eq: true}}}
+    ) {
       edges {
         node {
           frontmatter {

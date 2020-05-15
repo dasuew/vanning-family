@@ -2,6 +2,7 @@
 title: "Der Apfel fällt nicht weit vom Stamm"
 slug: "der-apfel-faellt-nicht-weit-vom-stamm"
 date: "2018-05-27"
+published: true
 location: "Deutschland"
 highlight: "Kalle´s Dickkopf."
 lowlight: "Der Sturz."

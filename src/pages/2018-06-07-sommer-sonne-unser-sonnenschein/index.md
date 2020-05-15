@@ -2,6 +2,7 @@
 title: "Sommer, Sonne, unser Sonnenschein"
 slug: "sommer-sonne-unser-sonnenschein"
 date: "2018-06-07"
+published: true
 location: "Schweden"
 advice: "Zimtschnecken....einfach super super lecker...immer wieder!"
 highlight: "Kalles Sonnenscheintag"

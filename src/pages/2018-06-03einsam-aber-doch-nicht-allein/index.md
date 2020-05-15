@@ -2,6 +2,7 @@
 title: "Einsam aber doch nicht allein"
 slug: "einsam-aber-doch-nicht-allein"
 date: "2018-06-03"
+published: true
 location: "Schweden"
 highlight: "Einsam am See mit traumhaften Stellplatz."
 lowlight: "Nicht allein, sondern in Gesellschaft von Zecken."

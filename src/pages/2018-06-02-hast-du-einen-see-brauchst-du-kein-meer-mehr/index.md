@@ -2,6 +2,7 @@
 title: "Hast du einen See brauchst du kein Meer mehr"
 slug: "hast-du-einen-see-brauchst-du-kein-meer-mehr"
 date: "2018-06-02"
+published: true
 location: "Schweden"
 advice: "Fliegengitter am Auto!!!!"
 highlight: "Der Campingplatz Törestorp Camping."

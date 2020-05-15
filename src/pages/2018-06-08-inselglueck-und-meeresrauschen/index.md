@@ -2,6 +2,7 @@
 title: "Inselglück und Meeresrauschen"
 slug: "inselglueck-und-meeresrauschen"
 date: "2018-06-08"
+published: true
 location: "Schweden"
 highlight: "Mückenfreiheit"
 lowlight: "kaputter Abfluss"
