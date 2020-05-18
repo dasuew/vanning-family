@@ -1,1 +1,0 @@
-{"componentChunkName":"component---src-templates-post-template-js","path":"/posts/1228","result":{"errors":[{"message":"Variable \"$slug\" of required type \"String!\" was not provided.","locations":[{"line":1,"column":62}]}],"pageContext":{"id":"1228"}}}
