@@ -1,7 +1,8 @@
 ---
 title: "Eine Bootsfahrt die ist lustig, eine Bootsfahrt die ist...anstrengend!"
-date: "2018-07-27"
 slug: "eine-bootsfahrt-die-ist-lustig-eine-bootsfahrt-die-ist-anstrengend"
+date: "2018-07-27"
+published: true
 location: "Deutschland,Schweden"
 ---
 

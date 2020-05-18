@@ -2,6 +2,7 @@
 title: "Something is rotten in Denmark...Fisch?!"
 slug: "something-is-rotten-in-denmarkfisch"
 date: "2018-05-27"
+published: true
 location: "Dänemark"
 highlight: "Fischbrötchen bei Bens's Fischhütte"
 lowlight: "Lange und anstrengende Fahrt."

@@ -2,6 +2,7 @@
 title: "Strandtag"
 slug: "strandtag"
 date: "2018-05-30"
+published: true
 location: "Dänemark"
 ---
 

@@ -39,6 +39,7 @@ export const pageQuery = graphql`
             title
             slug
             date
+            published
           }
         }
       }

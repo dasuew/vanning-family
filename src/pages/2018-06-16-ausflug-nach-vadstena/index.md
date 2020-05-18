@@ -5,7 +5,6 @@ date: "2018-06-16"
 published: true
 location: "Schweden"    
 highlight: "Sehr leckeres Abendessen auf dem Campingplatz in netter Gesellschaft."
-lowlight: ""
 advice: "Die Fußwege am Wasser in Vadstena und die Altstadt sind einen Besuch wert. Das Restaurant auf dem Campingplatz macht leckeres Essen."
 tfi: "8"
 ---

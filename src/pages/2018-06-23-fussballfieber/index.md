@@ -1,0 +1,13 @@
+---
+title: "Fußballfieber"
+slug: "fussballfieber"
+date: "2018-06-23"
+published: true
+location: "Schweden"
+advice: "Schaut euch Fußballspiele immer bis zum Abpfiff an. Auch wenn es manchmal schwer fällt, ab und an lohnt es sich auch für den vermeintlichen Verlierer bis zum Ende dabei zu bleiben."
+highlight: "Stockholm vom Wasser zu sehen und die vielen kleinen Inseln zu entdecken verleitet zur Träumerei."
+tfi: "9"
+---
+
+Der darauffolgende Tag begann für viele viel zu früh....wie immer nach einer guten Feier. Gemeinsam war ein Ausflug nach Vaxholm vorgesehen. Dorthin brachte uns ein Schiff. Nach gemütlichen schlendern und leckeren Kaffeetrinken, nahmen wir pünktlich das Schiff zurück, denn der Höhepunkt des Tages stand noch bevor: Das WM Spiel Deutschland gegen Schweden. Natürlich ein besonderes Ambiente dieses Spiel in Schweden miterleben zu können und noch besser bei einem Public Viewing. Da sich wohl ein jeder an den Ausgang des Spiels erinnern kann, brauche ich nicht viel zu schreiben...nur: Wer zuletzt lacht, lacht am Besten;) (tja das kann nun mit dem Wissen des Voranschreitens der WM Spiele so und so gedeutet werden:) ). Zumindest war es das erste Fußballspiel, welches Kalle vollständig und beim Public Viewing miterlebt hat. Und er hat sehr gut mitgemacht. Er hat nur kurz geweint, als die Deutschen das letzte Tor gemacht haben. Dies lag eher nicht an dem Fakt, dass Deutschland es gemacht hat, sondern daran, dass alle um ihn herum plötzlich vor Begeisterung aufgeschrien haben....so unsere Interpretation. :)
+Kalle hat sich mit seinem Charme die Herzen der zumeist weiblichen Anwesenden schnell erobert. Auch hat er sich nicht durch die Menge an Leuten stören lassen. Er war aktiv wie immer und hätte fast den zweiten Sturz des Urlaubs von der Rückbank hingelegt, wenn nicht die Mama geistesgegenwärtig den Hosenbund gegriffen hätte. Naja ein \u201eFast Unfall\u201c \u2013 eine Analyse des Unfallhergangs wurde bereits gemacht und Maßnahmen eingeleitet, die Betroffenen wurden informiert.

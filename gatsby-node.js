@@ -12,6 +12,7 @@ exports.createPages = async ({ actions: { createPage }, graphql }) => {
                 title
                 slug
                 date
+                published
                 highlight
                 lowlight
                 advice

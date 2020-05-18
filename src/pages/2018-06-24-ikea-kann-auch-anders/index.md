@@ -1,0 +1,17 @@
+---
+title: "Ikea kann auch anders"
+slug: "ikea-kann-auch-anders"
+date: "2018-06-24"
+published: true
+location: "Schweden"
+advice: "Macht am Wochenende einen großen Bogen um Ikea."
+highlight: "Uppsala ist tatsächlich eine Reise Wert. Wir hatten es eigentlich nicht eingeplant, waren dann aber umso überraschter, wie schön es war."
+lowlight: "Wir hatten uns auf ein schönes entspanntes Mittag bei Ikea gefreut. Da aber an einen Sonntag sich ganz Schweden im Ikea trifft war es die Hölle und wir sind geflüchtet."
+tfi: "6"
+---
+
+\u201eSonntags zu Ikea ist ungefähr genauso clever, wie Russland im Winter in Flip Flops anzugreifen.\u201c\u201eBei Ikea handelt es sich nicht um ein Möbelhaus sondern um ein Zimtschneckenstand, den man nur über ein Labyrinth erreichen kann.\u201c
+Ich finde, dass diese beiden Sprüche am Besten unseren Sonntagsausflug in den Ikea beschreiben...mehr dazu später.<br>Zum morgendlichen Frühstück in der Hacienda im Vogelbeerengebiet wurde das Frühstück musikalisch durch den Chor \u201eCactus\u201c aus Görlitz untermalen, zum musikalischen Gaumenschmaus\uf04a. Nach herzlicher Verabschiedung nutzten wir die Zeit und die Anwesenheit einer Dusche noch, um Kalle vom Dreck der letzten Tage zu befreien und nein, er mag duschen, waschen und Wasser im allgemeinen immer noch nicht. Aber wat mut dat mud.
+<i>Ikea in Schweden</i>
+<ul><li>immer gut besucht, vor allem das Restaurant</li><li>Kinderfreundlich, alles da von Mikrowelle für Brei, über Kinderstühle, Spielzeug bis hin zum Eis für 50 cent.</li><li>Best meatballs ever</li><li>Best Kannelbulle ever</li><li>Von weiten zu erkennen</li><li>In Schweden Farben gehalten</li><li>Sonderheiten \u2013 Caf\u00e9, Verkauf von Sachen aus fairem Handel</li></ul>Mit einem sauberen und erschöpfen Kalle ging es dann los in Richtung Ikea....Und was soll ich schreiben, die Überschrift beschreibt die Situation sehr gut. Scheinbar strömen am Wochenende alle Schweden in ein Ikea und verlassen dieses für zwei Tage nicht mehr. Das Restaurant fühlte sich an, als wäre man mitten in eine Heuschreckenplage geraten. So verließen drei hungrige Mäuler, wobei man sagen muss, dass Kalle die Möglichkeit gehabt hat zu essen, es aber verweigert hat, das Ikea und beschlossen Richtung Uppsala aufzubrechen. Kalle hat es geschafft drei Minuten vor dem Ziel eieinzuschlafe. So nutzten wir die Zeit alles aufzubauen
+Gemeinsam mit dem ausgeschlafen Kalle ging es dann noch durch die Uppsala Altstadt. Vorbei an Schloss und Kathedrale und schließlich noch das Nötigste für das Abendbrot einkaufen.
