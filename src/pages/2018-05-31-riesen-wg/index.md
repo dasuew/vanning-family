@@ -1,7 +1,7 @@
 ---
 title: "Riesen WG"
 slug: "riesen-wg"
-location": "Dänemark"
+location: "Dänemark"
 date: "2018-05-31"
 published: true
 advice: "Besuch in Kopenhagen!"

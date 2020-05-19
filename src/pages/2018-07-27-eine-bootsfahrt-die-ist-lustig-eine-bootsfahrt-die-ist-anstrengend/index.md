@@ -3,7 +3,7 @@ title: "Eine Bootsfahrt die ist lustig, eine Bootsfahrt die ist...anstrengend!"
 slug: "eine-bootsfahrt-die-ist-lustig-eine-bootsfahrt-die-ist-anstrengend"
 date: "2018-07-27"
 published: true
-location: "Deutschland,Schweden"
+location: "Deutschland, Schweden"
 ---
 
 Heute war es endgültig soweit, nicht nur von Skandinavien Abschied nehmen zu müssen, sondern auch von 9 Wochen frei sein und spontan entscheiden, quer durchs Land zu fahren, Dreisamkeit im Auto, 2/3 des Tages im Freien zu verbringen und Kalle 24/7 für sich zu haben. Auf der anderen Seite freuen wir uns schon darauf Freunde und Familie wieder zusehen und natürlich auf ein richtiges Bett und eigene Dusch. Die nächsten drei Wochen Elternzeit werden wir in Deutschland und Österreich verbringen und nur noch selten im Auto nächtigen.

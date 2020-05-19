@@ -11,7 +11,8 @@ export const postQuery = graphql`
             frontmatter {
                 title
                 slug
-                date
+                date               
+                location
                 lowlight
                 highlight
                 advice
@@ -37,7 +38,7 @@ const Template = ({ data }) => {
         <Layout>
             <div className="mt-20 pb-20 flex w-1/3 mx-auto flex-col text-purple-100">
                 <div className="font-bold text-yellow-500 text-xl">{post.frontmatter.title}</div>
-                <div className="text-sm text-yellow-500 mb-5">{new Date(post.frontmatter.date).toLocaleDateString("de-DE", dateOptions).toString()}</div>
+                <div className="text-sm text-yellow-500 mb-5">{new Date(post.frontmatter.date).toLocaleDateString("de-DE", dateOptions).toString()} - {post.frontmatter.location}</div>
                 <div className="text-purple-100 mb-5 text-justify" dangerouslySetInnerHTML={{ __html: post.html }} />
                 <div>
                     <span className="font-bold">Empfehlung: </span>{post.frontmatter.advice}

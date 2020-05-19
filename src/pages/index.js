@@ -17,7 +17,7 @@ const IndexPage = ({ data }) => {
               <Link className="flex w-full mt-10" to={`/${data.node.frontmatter.slug}`} key={index}>
                 <div>
                   <div className="font-bold text-yellow-500 text-xl">{data.node.frontmatter.title}</div>
-                  <div className="text-sm text-purple-100">{new Date(data.node.frontmatter.date).toLocaleDateString("de-DE", dateOptions).toString()}</div>
+                  <div className="text-sm text-purple-100">{new Date(data.node.frontmatter.date).toLocaleDateString("de-DE", dateOptions).toString()} - {data.node.frontmatter.location}</div>
                 </div>
               </Link>
             )
@@ -40,6 +40,7 @@ export const pageQuery = graphql`
             slug
             date
             published
+            location
           }
         }
       }
