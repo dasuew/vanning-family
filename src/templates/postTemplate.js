@@ -28,15 +28,6 @@ export const postQuery = graphql`
         }    
     }`
 
-// images {
-//     childImageSharp{
-//         fluid {
-//             ...GatsbyImageSharpFluid
-//         }
-//     }
-// }
-
-
 const Template = ({ data }) => {
     const { markdownRemark: post } = data
     const dateOptions = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' }
@@ -57,7 +48,7 @@ const Template = ({ data }) => {
                     <span className="font-bold">Lowlight: </span>{post.frontmatter.lowlight}
                 </div>
                 <div>
-                    <span className="font-bold">TFI: </span>{(post.frontmatter.tfi !== undefined ? post.frontmatter.tfi : ' - ')}
+                    <span className="font-bold">TFI: </span>{(post.frontmatter.tfi !== null ? post.frontmatter.tfi : ' - ')}
                 </div>
                 <div className="flex flex-wrap">
                     {post.frontmatter.images !== null ?
