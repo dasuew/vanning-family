@@ -16,7 +16,14 @@ export const postQuery = graphql`
                 lowlight
                 highlight
                 advice
-                tfi
+                tfi                
+                images {
+                    childImageSharp {
+                        fluid(maxWidth: 800) {
+                          ...GatsbyImageSharpFluid
+                        }
+                    }
+                }
             }
         }    
     }`
@@ -52,11 +59,20 @@ const Template = ({ data }) => {
                 <div>
                     <span className="font-bold">TFI: </span>{(post.frontmatter.tfi !== undefined ? post.frontmatter.tfi : ' - ')}
                 </div>
-                {/* <Image
-                fluid={post.images.childImageSharp.fluid}
-                alt={post.id}
-                className="w-1/4"
-            /> */}
+                <div className="flex flex-wrap">
+                    {post.frontmatter.images !== null ?
+                        post.frontmatter.images.map((data, index) =>
+                            (
+                                <Image
+                                    key={index}
+                                    fluid={data.childImageSharp.fluid}
+                                    className="w-full mt-5 shadow border-4 border-yellow-500 rounded"
+                                />
+                            )) 
+                        : ' '
+                    }
+
+                </div>
             </div>
         </Layout>
     )

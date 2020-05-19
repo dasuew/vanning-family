@@ -40,7 +40,7 @@ export const pageQuery = graphql`
             slug
             date
             published
-            location
+            location            
           }
         }
       }
