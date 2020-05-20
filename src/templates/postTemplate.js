@@ -19,7 +19,7 @@ export const postQuery = graphql`
                 tfi                
                 images {
                     childImageSharp {
-                        fluid(maxWidth: 800) {
+                        fluid(maxWidth: 700) {
                           ...GatsbyImageSharpFluid
                         }
                     }
