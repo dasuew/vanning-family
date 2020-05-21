@@ -8,6 +8,7 @@ advice: "Macht am Wochenende einen großen Bogen um Ikea."
 highlight: "Uppsala ist tatsächlich eine Reise Wert. Wir hatten es eigentlich nicht eingeplant, waren dann aber umso überraschter, wie schön es war."
 lowlight: "Wir hatten uns auf ein schönes entspanntes Mittag bei Ikea gefreut. Da aber an einen Sonntag sich ganz Schweden im Ikea trifft war es die Hölle und wir sind geflüchtet."
 tfi: "6"
+images: ["20180624_image (1).jpg", "20180624_image (2).jpg", "20180624_image (3).jpg", "20180624_image (4).jpg"]
 ---
 
 \u201eSonntags zu Ikea ist ungefähr genauso clever, wie Russland im Winter in Flip Flops anzugreifen.\u201c\u201eBei Ikea handelt es sich nicht um ein Möbelhaus sondern um ein Zimtschneckenstand, den man nur über ein Labyrinth erreichen kann.\u201c

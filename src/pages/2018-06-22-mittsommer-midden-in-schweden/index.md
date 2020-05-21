@@ -8,6 +8,7 @@ advice: "Mittsommer im Kreise von Schweden zu feiern, ist ein ganz besonderes Er
 lowlight: "Auf späte Feierlichkeiten müssen wir wohl noch eine Weile verzichten :)"
 highlight: "Ganz klar die kulinarischen Köstlichkeiten gepaart mit der Gastfreundlichkeit die wir erfahren durften."
 tfi: "10"
+images: ["20180622_image (1).jpg", "20180622_image (2).jpg"]
 ---
 
 Nach einer warmen und schnellen Dusche (Schnelligkeit damit begründbar, dass neben einer rieeeeesigen Spinne auch eine Schnecke mit mir geduscht haben) ging es dann los zur Hacienda im Vogelbeerengebiet (frei übersetzt;)). Dort hatten wir die Möglichkeit bei einer echten (gibt es auch falsche?) schwedischen Familie Mittsommer zu feiern.

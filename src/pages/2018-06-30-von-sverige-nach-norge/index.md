@@ -4,10 +4,11 @@ slug: "von-sverige-nach-norge"
 date: "2018-06-30"
 published: true
 location: "Norwegen"
-tfi: "7"
 advice: "Sprecht mit anderen Leuten auf den Plätzen. Es kommen sehr oft einfach nur schöne Gespräche zustande und im Besten Fall kann man interessante Information über Reiseziele erfahren. Oder ihr lernt wieder etwas mehr über die Länder und die Bewohner kennen."
 highlight: "Nettes Ehepaar, welches uns mit Fakten überschüttet hat."
 lowlight: "Höchsttemperaturen auf dem Thermometer."
+tfi: "7"
+images: ["20180630_image.jpeg"]
 ---
 
 Während Uwe sich dem Zusammenpacken widmete, spazierte Caro mit dem mittlerweile sein Vormittagsschläfchen haltenden Kalle umgebunden gen Stadt. Doch weit kam sie nicht, denn aus dem verbleibenden Campingwagen...alle anderen waren schon abgefahren, stürmte eine ältere Frau heraus um Kalle zu bewundern. So kamen wir ins Gespräch. Es handelte sich bei dem älteren Paar um Norweger. Für die war der Stellplatz perfekt \u2013 billig, ruhe, See zum angeln vor der Nase, gutes Wetter. Netterweise, denn wir waren ja mal wieder gar nicht vorbereitet, teilten sie mit uns ihre Empfehlungen für Norwegen. Diese Informationen sollten unsere spätere Route stark beeinflussen ;).Endlich schafften wir es über die Grenze nach Norwegen und bis Trondheim. Dort stellten wir uns auf einen Campingplatz nahe der Stadt. Der Plan war, dass wir am nächsten Tag die Stadt erkunden und am übernächsten wieder fahren. Doch wie es so ist, blieb es bei dem theoretischen Plan, den Kalle bekam sehr hohes Fieber....

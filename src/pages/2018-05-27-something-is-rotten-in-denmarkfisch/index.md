@@ -4,7 +4,7 @@ slug: "something-is-rotten-in-denmarkfisch"
 date: "2018-05-27"
 published: true
 location: "Dänemark"
-highlight: "Fischbrötchen bei Bens's Fischhütte"
+highlight: "Fischbrötchen bei Benss Fischhütte"
 lowlight: "Lange und anstrengende Fahrt."
 advice: "Campingplatz"
 tfi: "7"

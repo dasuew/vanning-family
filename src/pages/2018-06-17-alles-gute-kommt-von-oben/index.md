@@ -8,6 +8,8 @@ advice: "Packt unbedingt auch Klamotten für Regentage für eure Kinder ein."
 highlight: "Endlich lecker grillen in netter Gesellschaft."
 lowlight: "Die Stimmung und das erste Spiel der Fußball Nationalmannschaft gegen Mexiko bei der WM in Russland."
 tfi: "6"
+images: ["20180617_image (1).jpg", "20180617_image (2).jpg", "20180617_image (3).jpg", "20180617_image (4).jpg"]
+
 ---
 
 Unser erster Regentag...und wir haben ihn gut überstanden. Gefrühstückt haben wir im Vorzelt, wo auch Kalles Spieldecke mit seinem Spielzeug ausgebreitet war...all das ignorierte er natürlich und beschäftigte sich lieber mit den Schuhen, Schuhabtretern und dem herumliegenden Werkzeug. Dann nutzten wir die Existenz einer Küche aus und kochten frischen Brei für Kalle und Mittagessen für uns. Dann war Mittagspause angesagt und tatsächlich hat Kalle im Auto bestimmt 1,

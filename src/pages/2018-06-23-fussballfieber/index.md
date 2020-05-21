@@ -7,6 +7,7 @@ location: "Schweden"
 advice: "Schaut euch Fußballspiele immer bis zum Abpfiff an. Auch wenn es manchmal schwer fällt, ab und an lohnt es sich auch für den vermeintlichen Verlierer bis zum Ende dabei zu bleiben."
 highlight: "Stockholm vom Wasser zu sehen und die vielen kleinen Inseln zu entdecken verleitet zur Träumerei."
 tfi: "9"
+images: ["20180623_image (1).jpg", "20180623_image (2).jpg", "20180623_image (3).jpg", "20180623_image (4).jpg"]
 ---
 
 Der darauffolgende Tag begann für viele viel zu früh....wie immer nach einer guten Feier. Gemeinsam war ein Ausflug nach Vaxholm vorgesehen. Dorthin brachte uns ein Schiff. Nach gemütlichen schlendern und leckeren Kaffeetrinken, nahmen wir pünktlich das Schiff zurück, denn der Höhepunkt des Tages stand noch bevor: Das WM Spiel Deutschland gegen Schweden. Natürlich ein besonderes Ambiente dieses Spiel in Schweden miterleben zu können und noch besser bei einem Public Viewing. Da sich wohl ein jeder an den Ausgang des Spiels erinnern kann, brauche ich nicht viel zu schreiben...nur: Wer zuletzt lacht, lacht am Besten;) (tja das kann nun mit dem Wissen des Voranschreitens der WM Spiele so und so gedeutet werden:) ). Zumindest war es das erste Fußballspiel, welches Kalle vollständig und beim Public Viewing miterlebt hat. Und er hat sehr gut mitgemacht. Er hat nur kurz geweint, als die Deutschen das letzte Tor gemacht haben. Dies lag eher nicht an dem Fakt, dass Deutschland es gemacht hat, sondern daran, dass alle um ihn herum plötzlich vor Begeisterung aufgeschrien haben....so unsere Interpretation. :)
