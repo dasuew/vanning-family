@@ -8,6 +8,7 @@ advice: "Zum spontanen übernachten am besten eher ins Landesinnere. An Badestel
 highlight: "Unterstützung durch ansässige Restaurantbesitzer."
 lowlight: "Eindeutig die toten Fische."
 tfi: "7"
+images: ["20180601_image (1).jpeg", "20180601_image (1).jpg", "20180601_image (2).jpg", "20180601_image (3).jpg", "20180601_image (4).jpg"]
 ---
 
 Farvel Dänemark, hej Schweden. Über die beeindruckende Tunnelbrücke Öresund sausten wir von Dänemark (Kopenhagen) nach Schweden (Malmö). Eigentlich hatten wir vor, einen kurzen Abstecher in die Innenstadt von Malmö zu machen
