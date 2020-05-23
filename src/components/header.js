@@ -11,6 +11,12 @@ const Header = ({ siteTitle }) => (
         <Link to="/" className="uppercase text-purple-100">
           {siteTitle}
         </Link>
+        <div className="flex flex-row">
+          <Link className="flex w-full text-base" to={`/indexDeutschland`}>Deutschland</Link>
+          <Link className="flex w-full text-base" to={`/indexDenmark`}>Dänemark</Link>
+          <Link className="flex w-full text-base" to={`/indexSchweden`}>Schweden</Link>
+          <Link className="flex w-full text-base" to={`/indexNorwegen`}>Norwegen</Link>
+        </div>
       </div>
     </div>
   </header>

@@ -3,7 +3,7 @@ title: "3 Personen, 3 Monate, 3 Länder"
 slug: "the-journey-begins"
 date: "2018-07-29"
 published: true
-location: "Norwegen"
+location: "Deutschland"
 images: ["./20180729_image.jpg"]
 ---
 
