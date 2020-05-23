@@ -7,6 +7,7 @@ location: "Schweden"
 advice: "Das IKEA Museum sollte auf jeder Sightseeing Tour von Schweden Besuchern stehen. Uwe war zu Beginn sehr skeptisch eingestellt, aber auch er wurde von dem sehr liebevoll aufgebauten Museum und der Inspirationskraft die von diesem Unternehmen ausgeht überzeugt."
 highlight: "Das Museum war nicht zu groß und zeigt vor allem den Erfinder- und Unternehmergeist von Ingvar. Für Uwe war wohl am Ende aber doch der Schokokuchen aus der Cafeteria das unschlagbare Highlight des Tages."
 tfi: "10"
+images: ["20180723_image (1).jpg", "20180723_image (1).png", "20180723_image (2).jpg", "20180723_image (3).jpg", "20180723_image (4).jpg", "20180723_image (5).jpg", "20180723_image (6).jpg"]
 ---
 
 Leider war diese Nacht nicht wirklich erholsam...zumindest für ein Drittel der Familie. Während die Männer friedlich vor sich in schnarchten, weckte mich lautes Tierbrüllen. Ich bin der Meinung (abgeglichen mit dem was Google mir vorspielt bei der Frage: okay Google --- wie macht ein Elch), dass es sich um Elche gehandelt hat. Mir ist in den Sinn gekommen, dass die ganzen Waldbrände ja nicht nur eine Bedrohung für Mensch und Flora, sondern auch für Fauna bedeutet. Da der Elchbestand ja erst ab September halbiert wird, tummeln sich doch noch eine Menge der großen Tiere in den Wäldern Schwedens. Vielleicht werden sie durch die Brände vertrieben und kommen auch in stärker bevölkerte Gegenden?! Mal sehen wann sich mal wieder ein Elch nach Görlitz oder sogar durch die Elbe nach Dresden traut.
