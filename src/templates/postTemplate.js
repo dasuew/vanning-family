@@ -21,6 +21,8 @@ export const postQuery = graphql`
                     childImageSharp {
                         fluid(maxWidth: 700) {
                           ...GatsbyImageSharpFluid
+                          src
+                          srcSet
                         }
                     }
                 }
