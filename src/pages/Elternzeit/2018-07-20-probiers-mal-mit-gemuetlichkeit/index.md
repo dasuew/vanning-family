@@ -1,5 +1,5 @@
 ---
-title: "Probier´s mal mit Gemütlichkeit"
+title: "Probier es mal mit Gemütlichkeit"
 slug: "probiers-mal-mit-gemuetlichkeit"
 date: "2018-07-20"
 published: true
@@ -7,8 +7,20 @@ location: "Schweden"
 advice: "Wenn man im Auto unterwegs ist, reizt es ungemein viel zu sehen und damit auch viel im Auto zu sitzen und durch das Land zu fahren. Dazu ist ja auch die Mobilität perfekt, aber es lohnt sich dann doch auch öfter mal an einem Ort für ein paar Tage zu bleiben, durchzuatmen, die Gegend auf sich wirken zu lassen und zu entspannen. Wir haben diese Ruhepausen auf jeden Fall häufig und bewusst eingeplant. Gerade für Kalle ein absolutes Muss!"
 highlight: "Kalle macht nun immer mehr Aktivitäten mit. Duschen, im Sand spielen und plantschen. Es klingt so banal, aber bei Kalle hat die Akzeptanz für diese Tätigkeiten seine Zeit gedauert. Daher genießen wir es jetzt umso mehr."
 tfi: "10"
-images: ["20180720_image (1).jpg", "20180720_image (1).png", "20180720_image (2).jpg", "20180720_image (3).jpg", "20180720_image (4).jpg", "20180720_image (5).jpg", "20180720_image (6).jpg", "20180720_image (7).jpg", "20180720_image (8).jpg", "20180720_image (9).jpg", "20180720_image (10).jpg", "20180720_image (11).jpg", "20180720_image (12).jpg"]
+images: ["20180720_image (1).jpg", 
+         "20180720_image (2).jpg", 
+         "20180720_image (3).jpg", 
+         "20180720_image (4).jpg",
+         "20180720_image (6).jpg", 
+         "20180720_image (7).jpg", 
+         "20180720_image (8).jpg", 
+         "20180720_image (9).jpg", 
+         "20180720_image (10).jpg", 
+         "20180720_image (11).jpg", 
+         "20180720_image (12).jpg", 
+         "20180720_image (13).jpg"]
 ---
+
 Nach diesem Erlebnis beschlossen wir uns etwas ruhiges zu suchen. Nach etwas längerer Recherche fanden wir einen schönen Campingplatz, der abgelegen an einem, - wer glaubt es - See ;) gelegen war. Verrückterweise wimmelt es hier von Deutschen --- sogar deutschen Dauercampern. Der Platz ist relativ voll, aber trotzdem ruhig. Hier gönnten wir uns zwei Tage Ruhe und Erholung!
 Wir hofften, dass Kalle nachdem er die letzten Tage wieder ganz auf den Fütterservice der Eltern zurückgegriffen hat mal wieder motivieren zu können selbst einen Löffel in die Hand zu nehmen, aber leider ohne Erfolg. Immerhin konnten wir ihm das Duschen schmackhaft machen. Die letzten Mal war duschen immer mit viel Geschrei verbunden, doch nun ist er ganz interessiert --- wo kommt das Wasser her, wie fühlt es sich an und kann man die Strahlen fassen. Nebenbei schäumen wir ihn unbemerkt ein und spülen ihn schnell ab. Auch in den Sand und ins Wasser haben wir ihn ohne viel Protest setzen können. Er ist zwar noch nicht so der begeisterte Sandburgenbauer, aber immerhin nimmt er den Sand in die Hand und im Wasser wird sogar mittlerweile zögerlich geplanscht.
 Tatsächlich hat er auch die der Nase gepopelt --- wir haben unseren Augen nicht getraut als der Finger danach in den Mund ging...von wem hat er das nur...da muss wohl eine Therapie mit Gerhard Schönes Lied zum popeln her \uf04a. Auch macht er ein neues lustiges Geräusch --- schwer zu beschrieben aber irgendwie klingt es wie ein \u201eo oooooooooooo\u201c...zum wegschmeißen. Aus Protest wird jetzt nicht mehr nur der Kopf zurückgeworfen sondern auch alles verfügbare weit weggeworfen...wenn die Hörner mal ganz groß sind, dann kann auch mal der Nuckel fliegen. Heute hat er mit uns Ball gespielt. Er hat gesessen und den Ball ganz kontrolliert zu uns geschoben. Natürlich haben wir ihm vorher vorgemacht wie man richtig Volleyball spielt, aber ich denke wir müssen uns erst einmal mit Ballrollen begnügen. Leider isst er Mittags eher selten Brei, obwohl wir ihm schon eine Auswahl erstellen. Ab und zu klappt der Trick, dass wir etwas essen und den Mund aufmachen und Ah sagen...wie automatisch öffnet auch er dann seinen Mund und huch...auf einmal hat er etwas zu essen zwischen den Zähnchen. Ja es sind schon einige Zähne...die beiden unten sind schon fast ganz draußen, dann sind oben noch der linke Schneidezahn und der linke Eckzahn erschienen. Ganz neu und nur ein wenig rausluckend bis jetzt ist der rechte Schneidezahn...also fünf Zähne...da ist es hoffentlich nicht mehr weit bis zur festen Nahrung. Morgen geht es weiter --- Ziel ist das Ikea Museum in Älmhut.
