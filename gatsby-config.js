@@ -4,7 +4,7 @@ module.exports = {
     description: `A blog about travel 9 weeks through to sweden and norway with family in a Nugget.`,
     author: `@dasuew`,
   },
-  // pathPrefix: "/vanning-family",
+  pathPrefix: "/",
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-transformer-json`,
