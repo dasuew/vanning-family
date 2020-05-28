@@ -26,9 +26,9 @@ const Layout = ({ children }) => {
   return (
     <>
       <div className="h-screen bg-purple-900">
-        <Header siteTitle={data.site.siteMetadata.title}/>
+        <Header siteTitle={data.site.siteMetadata.title} />
         <div className="font-sans bg-purple-900">
-          <main className="w-full pt-32">{children}</main>
+          <main className="w-full pt-40">{children}</main>
           <footer />
         </div>
       </div>
