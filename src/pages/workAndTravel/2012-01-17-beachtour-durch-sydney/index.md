@@ -1,0 +1,15 @@
+---
+title: "Beachtour durch Sydney"
+slug: "beachtour-durch-sydney"
+date: "2012-01-17"
+published: true
+location: "Australien"
+images: ["20120117_image (1).jpg", "20120117_image (2).jpg", "20120117_image (3).jpg", "20120117_image (4).jpg", "20120117_image (5).jpg", "20120117_image (6).jpg", "20120117_image (7).jpg", "20120117_image (8).jpg", "20120117_image (9).jpg", "20120117_image (10).jpg"]
+---
+
+Nachdem wir gestern das Stadtleben in Sydney erkundet hatten, war es heute Zeit für die Strände. Heute wollten wir es entspannt angehen lassen und haben ausgeschlafen und ein ruhiges Frühstück im Hostel genossen. Dann ging es aber endlich los und Robert wartete schließlich schon auf uns mit frisch gewachsten Surfboards.
+Erstes Ziel für heute war der Bondibeach. Von hier gibt es einen schönen, 6 Kilometer langen, Pfad entlang des Meeres und vorbei an vielen malerischen Buchten zum Coogeebeach. Wir hatten auch heute wieder perfektes Wetter und konnten weiter an unserer Bräune arbeiten. Neben den vielen Stufen war es die größte Herausforderung den ganzen Joggern auszuweichen. Man merkt direkt wie die Leute hier sich alle Mühe geben ihre Strandfigur zu halten um sich an den traumhaften Stränden präsentieren zu können...da bekommt man direkt ein schlechtes Gewissen :) Nach unzähligen Fotostopps sind wir am Coogeebeach angekommen und haben uns weitere 3 Kilometer Marsch erspart und haben den Bus genommen, welcher uns direkt vor der Haustür von Robert und Marjorie rausgeworfen hat. Dort angekommen klappt einem erst mal der Kiefer nach unten. Robert hat uns winkend von seinem Balkon mit perfektem Blick und nahtlosen Anschluss an den Strand begrüßt.
+Wir haben uns alle drei nicht lange aufgehalten und sind direkt in die Wetsuits beziehungsweise Bikinis geschlüpft und sind mit den Surfboards unterm Arm an den Strand gelaufen. Caro hat sich für heute entschlossen die Sonne zu genießen und Robert und mich bei unseren Surfversuchen zu fotografieren. Nach anfänglichen Schwierigkeiten habe ich es dann sogar endlich geschafft auf dem Brett zu stehen. Ein tolles Gefühl!
+Nachdem die Arme immer schwerer wurden haben wir das Surfen eingestellt. Aber anstatt uns zu entspannen hat uns Robert gepackt und direkt zurück zum Coogeebeach geschleppt um dort mit seinen Leuten Volleyball zu spielen. Dort angekommen haben wir dann auch endlich Marjorie begrüßen können, die direkt von der Arbeit an den Strand gekommen ist. Bei solchen Aussichten freut man sich doch doppelt auf den Feierabend.
+Das erste Spiel konnte ich mit Robert gegen zwei andere Kerle gewinnen, aber danach hieß der Gegner Caro mit Partner und gegen die beiden mussten wir uns am Ende geschlagen geben. Da kann ich nur sagen: leg dich nicht mit den BVC-Mädels an! Zusammen mit Caro haben wir dann auch nochmal gegen Marjorie und Partnerin gewinnen dürfen.
+Als Abschluss des Abends gab es ein schönes Essen mit lecker Bier und kostenlosem Strandblick. Zurück im Hotel sind wir beide dann einfach nur noch müde ins Bett gefallen.

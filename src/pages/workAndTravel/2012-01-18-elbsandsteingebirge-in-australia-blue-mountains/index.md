@@ -1,0 +1,13 @@
+---
+title: "Elbsandsteingebirge in Australia - Blue Mountains"
+slug: "elbsandsteingebirge-in-australia-blue-mountains"
+date: "2012-01-18"
+published: true
+location": "Australien"
+images: ["20120118_image (1).jpg", "20120118_image (2).jpg", "20120118_image (3).jpg", "20120118_image (4).jpg", "20120118_image (5).jpg", "20120118_image (6).jpg", "20120118_image (7).jpg", "20120118_image (8).jpg"]
+---
+Heute war mal wieder Ausflugtag und das bedeutet um 6Uhr klingelte mal wieder der Wecker. Aber für eine Tour in die Blue Mountains machen wir das gerne. Nachdem wir uns mit Robert und Marjorie pünktlich am Bahnhof getroffen haben, lag noch eine zwei stündige Zugfahrt vor uns. Die Zeit verging dank viel Gesprächsstoff wie im Fluge. 
+Wir haben uns im Vorfeld gegen eine geführte Tour entschieden. Hauptargumente waren die Unabhängigkeit, Kostenfaktoren und die Tatsache das es auf den Touren auch einige Dinge gab die ziemlich uninteressant aussahen. Wir haben die Entscheidung nicht bereut, da es super war einfach das zu tun was man wollte und wir so nicht immer mit einer großen Touristentraube laufen mussten. Allen die dieses Reiseziel noch vor sich haben können wir nur die Hop on Hop off Busse ans Herz legen. 
+Das erste Ziel auf der Reise war das Adventureland. Hier konnte man zuerst mit einer Schwebebahn durch eine Schlucht fahren und die Blue Mountains quasi im Vorbeiflug erleben. Danach ging es mit einem anderem Fahrgeschäft in die Tiefe um einen kleinen Walk am Fuße der Blue Mountains zu machen. Danach ging es mit einer Seilbahn wieder nach oben zum Startpunkt. Alle drei Fahrten waren sehr kurz und die ganze Anlage extrem touristisch, aber es war trotzdem lustig das mal mitzumachen. 
+Das nächste Ziel waren die die three Sisters. Es gab dort auch einen Weg der ca. 860 Stufen zu dem Fuße der Steinformation geführt haben, aber den kompletten Weg haben wir uns dann doch gespart. Dafür haben wir einen Weg durch den Wald Richtung ???? eingeschlagen. Von dort ging es mit dem Bus weiter Richtung Leura um hier einen kurzen Shoppingbummel zu machen und den Kaffeedurst zu löschen. 
+Anschließend ging es zurück nach Sydney. Dort haben wir uns zunächst mit leckeren Donuts gestärkt um dann unseren Weg durch die Stadt anzutreten. Ziel war eine Bar in der wir dank perfektem Timing zur Cocktail Happy Hour ankamen. Also gab es für die Mädels Cocktails und wir die Kerle Bier. Zwei Runden und fusselige Münder später sind wir zum Lieblings-Libanesen von Robert und Marjorie direkt nebenan gegangen. Nachdem wir uns gestärkt hatten haben wir alle unseren Heimweg angetreten und sind abermals todmüde ins Bett gefallen.
