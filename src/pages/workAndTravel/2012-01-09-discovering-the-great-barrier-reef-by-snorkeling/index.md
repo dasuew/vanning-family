@@ -4,7 +4,7 @@ slug: "discovering-the-great-barrier-reef-by-snorkeling"
 date: "2012-01-09"
 published: true
 location: "Australien"
-images: ["20120109_image (1).jpg", "20120109_image (2).jpg", "20120109_image (3).jpg", "20120109_image (4).jpg", "20120109_image (5).jpg", "20120109_image (6).jpg", "20120109_image (7).jpg", "20120109_image (8).jpg", "20120109_image (9).jpg"]
+images: ["20120109_image (1).jpg", "20120109_image (2).jpg", "20120109_image (3).jpg", "20120109_image (4).jpg", "20120109_image (5).jpg", "20120109_image (6).jpg", "20120109_image (7).jpg", "20120109_image (8).jpg"]
 ---
 
 Am nächsten Morgen ging es in kleinen Gruppen mit 40 km/h über das Meer gen Whitsunday Island. Als genauer gesagt, handelt es sich dabei um eine inselgruppe, von der nur ein kleiner Teil mit Resorten bevölkert ist. Der Rest ist unbevölkert, aber zum besuch freigegeben. Besonders an dieser Inselgruppe ist nicht nur, dass man das Great Barrier reef unter seinen Füßen hat, sondern auch, dass sich dort der reinste Sand befindet. Das bedeutet, dass er einen sehr hohen Silizium Oxid Anteil besitzt.
