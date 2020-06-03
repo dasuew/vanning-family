@@ -1,0 +1,14 @@
+---
+title: "Duck race"
+slug: "duck-race"
+date: "2012-01-01"
+published: true
+location: "Australien"
+images: ["20120101_image (1).jpg", "20120101_image (2).jpg", "20120101_image (3).jpg"]
+---
+
+Das neue Jahr begannen wir gemächlich. Nach einem gemütlichen Kaffee machten wir uns in unserem Spaceship Boris auf den Weg gen Norden. Das angestrebte Ziel war Robe. Den ersten Zwischenstopp machten wir in einem alten Fischerort namens Port Ferry. Dort war gerade Markt und es schien, dass sich die ganze Bevölkerung des Orts dort getroffen hatte um entweder am Kanal zu angeln, während andere dort mit Eis oder anderen Leckereien in der Hand lang flanierten oder an den Ständen Sachen zu kaufen, die sie eigentlich nicht brauchten. Einige lauschten der Musiktruppe, die sich dem Country verschrieben hatte. Einige kleine Kinder spürten den Beat und bewegten sich rhythmisch dazu. Das spannendste Schauspiel aber bot das Gummientenrennen welches auf dem Kanal stattfand. Jeder konnte auf ein Quietscheentchen setzen und dem Gewinner blühte eine Prämie von 1000 australischen Dollar. Leider hatten die Entchen ihren eigenen Kopf beziehungsweise die Strömung einen großen Einfluss auf sie und die Helfer mussten sich sehr bemühen die Enten von den Rändern in die Mitte des Kanals zu navigieren. Obwohl von der Spannung des für uns neuen exotischen Sportevents gefangen, verließ uns nach 15 Minuten mitfiebern die Geduld und wir führten unsere Tour fort.
+Einige kleinere Pausen legten wir bei den sich häufenden Lookouts ein. Dort konnten wir Teil an den schönen Naturphänomenen haben, seien es einzelne Felsen, die vor der Küste tronten, Gesteinbögen oder nur ein wunderschöner Ausblick mit viel blau türkisem Wasser.
+In Mount Gambier hielten wir um das Internet bei MC Donalds zu benutzen, welches jedoch soooo langsam ist, das jegliches Arbeiten damit unmöglich machte. Danach schauten wir uns noch die Kraterseen an. Dabei stach insbesondere der Blue Lake heraus, der mit seiner stechend blauen Farbe sehr beeindruckte und sich ein Impuls des Hereinspringens nur schwerlich unterdrücken ließ.
+Abends kamen wir in dem Bushland Caravan Park an. Dort gönnten wir uns leckere Nudeln und wurden dann von einem schweizer Pärchen auf ein Bier eingeladen. Dabei philosophierten wir über die doch sehr unterschiedliche Einstellung der Australier zu der von Europäern sowie dem Umgang der Australier mit der Eingeborenen Kultur. Die Schweizer machten übrigens gerade eine drei-monatige "Weltreise" Fuji, Hawaii, Kalifornien, Neuseeland, Australien, Malaysia, Bali,...
+Und dann gings ins Bett und wir konnten gut schlafen...dank Oropax!
