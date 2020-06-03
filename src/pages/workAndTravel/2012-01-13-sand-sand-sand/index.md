@@ -4,7 +4,7 @@ slug: "sand-sand-sand"
 date: "2012-01-13"
 published: true
 location: "Australien"
-images: ["20120113_image (1).jpg", "20120113_image (2).jpg", "20120113_image (3).jpg", "20120113_image (4).jpg", "20120113_image (5).jpg", "20120113_image (6).jpg", "20120113_image (7).jpg", "20120113_image (8).jpg"]
+images: ["20120112_image (1).jpg", "20120112_image (2).jpg", "20120112_image (3).jpg", "20120112_image (4).jpg", "20120112_image (5).jpg", "20120112_image (6).jpg", "20120112_image (7).jpg", "20120112_image (8).jpg"]
 ---
 
 Tag zwei unseres Ausfluges. Diese Mal ging es als erstes auf dem Highway 1, dem Strand, gen einen Bootwrack. Dann fuhren wir weiter zu den Indian Rocks, die als Einzige auf der Insel richtige Steine und nicht aus Sandgeformte steinähnliche Ungetüme darstellten.
