@@ -4,7 +4,7 @@ slug: "ankunft-in-kerikeri"
 date: "2011-11-10"
 published: true
 location: "Neuseeland"
-images: ["2011110_image (1).jpg", "2011110_image (2).jpg", "2011110_image (3).jpg"]
+images: ["20111110_image (1).jpg", "20111110_image (2).jpg", "20111110_image (3).jpg"]
 ---
 
 Nachdem uns die Begegnung der letzten Nacht bis ca. 06:00 Uhr wachgehalten hat, hieß es jetzt erstmal ausschlafen. Nach dem Aufstehen gab es noch einen kurzen Stopp im Warehouse um ein Starthilfekabel zu besorgen...ja, leider war es heute Morgen wieder notwendig. Dann ging es aber endlich in einem Rutsch ca. 300 Kilometer in den Norden nach KeriKeri. Das Fahren mit den Kombis war kein Vergleich mehr zu dem behäbigen Van, da hat einfach jede Kurve Spaß gemacht. Gegen 01:00 Uhr waren sind wir auch angekommen. Diese Nacht waren wir aber noch zu geizig und sowieso zu spät dran um einzuchecken. Daher haben wir in einer Bucht in der Nähe unsere Schlafsäcke ausgepackt und es uns auf den Vordersitzen gemütlich gemacht. 

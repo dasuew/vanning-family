@@ -4,7 +4,7 @@ slug: "dargaville-man-kommt-zu-zweit-und-geht-allein"
 date: "2011-11-15"
 published: true
 location: "Neuseeland"
-images: ["2011115_image (1).jpg", "2011115_image (2).jpg"]
+images: ["20111115_image (1).jpg", "20111115_image (2).jpg"]
 ---
 
 Heute sollten wir also unseren neuen Arbeitgeber treffen. Dafür sind wir um 7 Uhr aufgestanden und haben eine Stunde auf die Verabredung vom vergangenen Abend gewartet. Leider ist diese nie aufgekreuzt und so haben wir uns entschlossen uns selber auf die Suche zu begeben. Wir haben mehrere Farmen angesteuert und haben einige Leute gefragt ob wir irgendwo Arbeit bekommen können. Leider war keiner der Versuche von Erfolg gekrönt und wir wurden jedes Mal weitergereicht. Dieses Spielchen wurde uns allerdings irgendwann zu dumm und so haben wir uns direkt zu Steve durchgefragt.
