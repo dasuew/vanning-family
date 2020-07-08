@@ -4,7 +4,7 @@ slug: "neuer-tag-neues-glueck-erster-sonnenbrand"
 date: "2011-11-20"
 published: true
 location: "Neuseeland"
-images: ["2011120_image (1).jpg", "2011120_image (2).jpg", "2011120_image (3).jpg", "2011120_image (4).jpg"]
+images: ["20111120_image (1).jpg", "20111120_image (2).jpg", "20111120_image (3).jpg", "20111120_image (4).jpg"]
 ---
 
 Da war er nun also, der neue Tag und dieser sollte besser werden. Zunächst habe ich mir einen schönen Platz zum Frühstück direkt am Hauptstrand ausgesucht und die Sonne und das Meer genossen. Die Sonne soll ja Balsam für die Seele sein und so habe ich diese heute ausgiebig genossen, am Ende leider sogar etwas zu ausgiebig. Aber ich muss das wohl immer wieder neu lernen.

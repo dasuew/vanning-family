@@ -4,7 +4,7 @@ slug: "bye-bye-campingvan"
 date: "2011-11-04"
 location: "Neuseeland"
 published: true
-images: ["201111104_image (1).jpg", "201111104_image (2).jpg"]
+images: ["20111104_image (1).jpg", "20111104_image (2).jpg"]
 ---
 
 Nachdem sich die ersten beiden Französinnen ernsthaft für den Camper interessierten waren wir deutlich beruhigter. Das Problem dabei war allerdings, dass die Mädels nicht unseren gewünschten Preis zahlen wollten, sondern nur etwas was deutlich unter unseren Vorstellungen lag. Der Van wurde auch kurz in einer Werkstatt untersucht. Die Worte des Mechanikers waren: "It is not a virgin...but it is ok for the age." Damit waren alle Beteiligten zufrieden gestimmt. Damit hatten wir nun immerhin eine Möglichkeit das Auto zu verkaufen. Danach kommen nochmal zwei Franzosen, welche aber nicht wirklich Interesse zeigten und danach folgten Argentinier, aber auch diese erlagen nicht dem Charme unseres Autos. 

@@ -4,7 +4,7 @@ slug: "die-couchkartoffel"
 date: "2011-11-24"
 published: true
 location: "Neuseeland"
-images: ["2011124_image (1).jpg", "2011124_image (2).jpg", "2011124_image (3).jpg", "2011124_image (4).jpg"]
+images: ["20111124_image (1).jpg", "20111124_image (2).jpg", "20111124_image (3).jpg", "20111124_image (4).jpg"]
 ---
 
 Am Morgen wurde ich vom stürmischen Wind wachgerüttelt. Mein Schlafplatz lag ja genau am Strand und heute hat sich das Wetter wohl gedacht es müsse mich in eine feste Unterkunft prügeln. Auf diese Aufforderung bin ich dann auch dankend eingegangen. Nach einem kurzen Shopping-Trip im countdown bin ich direkt in das Hostel gefahren und habe mich in ein 4er Zimmer eingemietet. Der Eindruck den ich von dem Hostel hatte war vollkommen richtig. Die Besitzer sind sehr sympathisch und die Einrichtung sehr gepflegt und sauber. Die Managerin hat dann auch nach kurzer Zeit deutsch mit mir geredet. Sie lebt inzwischen ungefähr 6 Jahre hier. Aus einem kurzen Auslandsaufenthalt ist Neuseeland die neue Heimat geworden. Sicherlich nicht das letzte Mal das ich diese Story hören werde. In meinem Zimmer schlafen ein Engländer, ein Chilene und ein Japaner. Als ich um 11: 00 Uhr das Zimmer betreten habe, habe ich auch mal direkt den Engländer geweckt. Danach habe ich mir ein sehr ausführliches Frühstück gegönnt und mir viel Zeit gelassen. Kontakt findet man hier quasi sofort. Wenn man möchte kann man irgendjemanden anquatschen und kann sich unterhalten. 

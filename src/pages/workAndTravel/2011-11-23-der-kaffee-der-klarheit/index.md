@@ -4,7 +4,7 @@ slug: "der-kaffee-der-klarheit"
 date: "2011-11-23"
 published: true
 location: "Neuseeland"
-images: ["2011123_image (1).jpg", "2011123_image (2).jpg", "2011123_image (3).jpg"]
+images: ["20111123_image (1).jpg", "20111123_image (2).jpg", "20111123_image (3).jpg"]
 ---
 
 Nach einer weiteren erholsamen Nacht bin ich wieder in die Stadt gefahren und wollte noch die Geschäfte ablaufen und schauen ob jemand einen Job anbietet. Dabei bin ich auch an einem Hotel vorbeigekommen und habe mir auch hier eine Bewerbung abgeholt. Man muss ja alles ausprobieren .

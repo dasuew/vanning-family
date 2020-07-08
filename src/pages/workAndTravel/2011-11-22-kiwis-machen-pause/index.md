@@ -4,7 +4,7 @@ slug: "kiwis-machen-pause"
 date: "2011-11-22"
 published: true
 location: "Neuseeland"
-images: ["2011122_image (1).jpg", "2011122_image (2).jpg", "2011122_image (3).jpg"]
+images: ["20111122_image (4).jpg", "20111122_image (5).jpg", "20111122_image (6).jpg"]
 ---
 
 Das Fazit nach einer Nacht in meinem neuen Bett: Top! Endlich wieder eine erholsame Nacht im Auto mit Beine lang machen und gemütlich schlafen. Das einzige Problem ist jetzt noch die fiese Sonne am Morgen. Da die Scheiben noch nicht abgehangen sind heizt sich das Auto schon sehr früh im Innenraum ordentlich auf und außerdem haben alle Leute Einblick in mein Schlafgemach. Gardinen sind damit das nächste Projekt beim Thema Autoumbau.

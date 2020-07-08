@@ -4,7 +4,7 @@ slug: "ein-auto-ist-nicht-genug"
 date: "2011-11-08"
 location: "Neuseeland"
 published: true
-images: ["2011108_image.jpg"]
+images: ["20111108_image.jpg"]
 ---
 
 Ich habe ja nun mein Auto gekauft, also musste nur noch der Carlo versorgt werden. Sein Kontakt hatte heute endlich Zeit und so sind wir in den Süden von Auckland gefahren, genauer nach Manukau. Hier war ein Autohändler ansässig der ab und an auch Autos von Kunden weiterverkauft. Diesmal stand ein Ford Taurus zum Verkauf. Nach kurzer Inspektion stand die Probefahrt an und was soll man sagen, der lief echt gut. Nach kurzer Verhandlung hatte Carlo damit sein neues Auto in der virtuellen Garage.

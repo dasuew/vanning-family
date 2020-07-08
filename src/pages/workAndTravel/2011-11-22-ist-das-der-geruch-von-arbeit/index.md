@@ -4,7 +4,7 @@ slug: "ist-das-der-geruch-von-arbeit"
 date: "2011-11-22"
 published: true
 location: "Neuseeland"
-images: ["2011122_image (1).jpg", "2011122_image (2).jpg", "2011122_image (3).jpg"]
+images: ["20111122_image (1).jpg", "20111122_image (2).jpg", "20111122_image (3).jpg"]
 ---
 
 Ungefähr 60 Kilometer von Te Puke befindet sich Rotorua. Zur Erklärung meiner Überschrift: wenn man auf die Stadt zusteuert, wird man plötzlich von dem Geruch von Schwefel überrascht. Der Grund sind die unzähligen heißen Quellen die es hier gibt.
