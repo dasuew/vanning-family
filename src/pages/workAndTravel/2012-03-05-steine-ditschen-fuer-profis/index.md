@@ -1,10 +1,10 @@
 ---
 title: "Steine ditschen für Profis"
 slug: "steine-ditschen-fuer-profis"
-date: "2012-03-04"
+date: "2012-03-05"
 published: true
 location: "Neuseeland"
-images: ["../../../images/MG_7142.jpg", "../../../images/MG_7253.jpg", "../../../images/MG_7217.jpg", "../../../images/MG_7202.jpg", "../../../images/MG_7133.jpg", "../../../images/MG_7193.jpg"]
+images: ["20120305_image (1).jpg", "20120305_image (2).jpg", "20120305_image (3).jpg", "20120305_image (4).jpg", "20120305_image (5).jpg"]
 ---
 Auch wenn dieser Morgen nicht so zeitig begann wie geplant, war es ein toller Start in den Tag. Diesmal begrüßte uns der Tag mit warmen Sonnenstrahlen und so musste tatsächlich nochmal die Sonnencreme herhalten. Als Dusche fungierte heute der Gletschersee. Allerdings waren wir dann doch zu große Frostbeule, als das es ein Vollbad gab. Aber für eine Katzenwäsche reichte es aus. Danach gab es lecker Instantkaffee und ein Frühstück am Strand mit Panorama.
 Danach stand das Turnier im Steine ditschen auf dem Programm. Die Voraussetzungen konnten nicht besser sein. Ein endloser Vorrat an Steinen in allen Formen und Größen und ein völliger ruhiger See. Nach ein paar Verfeinerungen an der Wurftechnik wurden die Rekorde am laufenden Band gebrochen.Aber auch an diesem Tag gab es ein Ziel und so mussten wir schweren Herzens aufbrechen. Nach kurzer Fahrt waren wir auch schon am Lake Pakike. Dieser war zwar um ein vielfaches Größer, konnte dem Lake Tekapo aber nicht das Wasser reichen. Da wir jetzt nur noch 60Km vom Mt Cook entfernt waren, wollten wir diesen zumindest auf ein Foto bannen. So sind wir also einige Kilometer am See entlanggefahren bis der Berg in Sicht kam und wir eine geeignete Stelle zum Fotografieren gefunden hatten. Am Steinstrand gab es dann abermals eine kleine Fotosession und den Steinwurf-Wettbewerb mit neuen Fabelergebnissen. Da die Sandflys aber wohl den Unterschied zwischen Steinen und Sand nicht kennen, haben wir uns für die Flucht entschieden. 

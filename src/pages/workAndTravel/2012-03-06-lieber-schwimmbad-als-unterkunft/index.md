@@ -1,10 +1,10 @@
 ---
 title: "Lieber Schwimmbad als Unterkunft"
 slug: "lieber-schwimmbad-als-unterkunft"
-date: "2012-03-05"
+date: "2012-03-06"
 published: true
 location: "Neuseeland"
-images: ["../../../images/MG_7280.jpg", "../../../images/MG_7310.jpg", "../../../images/MG_7307.jpg", "../../../images/MG_7291.jpg", "../../../images/MG_7295.jpg"]
+images: ["20120306_image (1).jpg", "20120306_image (2).jpg", "20120306_image (3).jpg", "20120306_image (4).jpg", "20120306_image (5).jpg"]
 ---
 
 Auch diesmal wurden wir zum Erwachen mit einer tollen Aussicht begrüßt. Allerdings währte die Freude nur kurze Zeit nachdem mein Blick auf ein verdächtiges Stück Papier unter dem Scheibenwischer fiel. Ja, diesmal ist es tatsächlich passiert, ein fleißiges Bienchen hat uns ein Knöllchen verpasst. Strafzettel werden hier aber auf das Auto gebucht und damit könnten wir aus dem Schneider sein. Hoffen wir das Beste.

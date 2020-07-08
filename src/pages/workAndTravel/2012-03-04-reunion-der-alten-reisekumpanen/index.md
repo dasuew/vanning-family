@@ -4,18 +4,7 @@ slug: "reunion-der-alten-reisekumpanen"
 date: "2012-03-04"
 published: true
 location: "Neuseeland"
-images: [
-      "../../../images/MG_6991.jpg",
-      "../../../images/MG_7129.jpg",
-      "../../../images/MG_7118.jpg",
-      "../../../images/MG_6908.jpg",
-      "../../../images/MG_6855.jpg",
-      "../../../images/MG_6796.jpg",
-      "../../../images/MG_6784.jpg",
-      "../../../images/MG_6781.jpg",
-      "../../../images/MG_6776.jpg",
-      "../../../images/MG_6828.jpg"
-    ]
+images: ["20120304_image (1).jpg", "20120304_image (2).jpg", "20120304_image (3).jpg", "20120304_image (4).jpg", "20120304_image (5).jpg", "20120304_image (6).jpg", "20120304_image (7).jpg", "20120304_image (8).jpg", "20120304_image (9).jpg", "20120304_image (10).jpg"]
 ---
 
 Am Morgen gab es das gleiche Bild in Christchurch, Regen. Nach einem kurzen Frühstück und der Verabschiedung von Jannes, ein Freund von Carlo aus KeriKeri, ging die Reise gen Milford Sound nun endlich los. Es war schon ein lustiges Gefühl das die letzten Woche meiner Reise so enden wie die ersten begonnen haben, Seite an Seite mit Carlo. Die einzigen Unterschiede sind das kleinere Auto und die falsche Insel. Wir beide hätten es wohl nicht erwartet, dass wir uns noch mal treffen oder gemeinsam reisen würden.
