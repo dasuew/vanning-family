@@ -4,7 +4,7 @@ slug: "caros-arrival"
 date: "2011-12-11"
 published: true
 location: "Neuseeland"
-images: ["201111211_image (1).jpg", "201111211_image (2).jpg", "201111211_image (3).jpg", "201111211_image (4).jpg"]
+images: ["20111211_image (1).jpg", "20111211_image (2).jpg", "20111211_image (3).jpg", "20111211_image (4).jpg"]
 ---
 
 Durch die Einladung von den netten Neuseeländern die mich zum Kaffee und Abendessen eingeladen haben, bin ich erst gegen 23:00 Uhr aus Mount Maunganui weggekommen. Da meine Zeitplanung zu diesem Zeitpunkt noch lange nicht abgearbeitet war sollte es eine lange Nacht werden.
