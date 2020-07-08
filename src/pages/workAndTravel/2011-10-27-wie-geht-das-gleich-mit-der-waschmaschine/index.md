@@ -1,0 +1,13 @@
+---
+title: "Wie geht das gleich mit der Waschmaschine?"
+slug: "wie-geht-das-gleich-mit-der-waschmaschine"
+date: "2011-10-27"
+location: "Neuseeland"
+published: true
+---
+
+Heute war Waschtag angesagt und Blog schreiben. Also zeitig um 9Uhr aus dem Bett ;) und ran an die Waschmaschine. Natürlich nicht ohne den guten Instant Kaffee dabei zu haben. Beim Trockner war dann guter Rat teuer. Aber nachdem der bärtige alte Campingplatzchef eiskalt die Temperatur des Trockners auf maximal gestellt hat waren auch die Bedenken zerstreut. Die nächsten Stunden habe ich mit Blog schreiben, Bilder sortieren und Kaffee trinken verbracht. Für Carlo waren zwei Tassen Kaffee allerdings etwas viel und haben seinen Kreislauf doch etwas zu ordentlich in Schwung gebracht. An diesem Tag haben wir gelernt, dass man eigentlich wie in einem Hotel um 10Uhr den Platz verlassen sollte. Das haben wir allerdings nicht getan und haben gemütlich bis zum Nachmittag die Einrichtung genutzt. Das hat da aber letztlich auch keinen gestört...einfach zu nett die Leute hier. Am Nachmittag begann der Regen und dieser sollte uns lange erhalten bleiben. Außerdem haben wir gelernt, dass unsere schöne Verlängerungsschnur für die Campingplätze die falsche ist da sie keinen Überspannungsschutz hat. Als Konsequenz sind wir am Nachmittag zurück nach Johnsonville gefahren und haben uns unsere 50$ für das Kabel zurückgeholt. Das richtige Kabel für die Campingplätze kostet übrigens ca 100$. Das Geld haben wir uns aber erstmal noch gespart da man die Geräte auch im Auto oder in der Küche aufladen kann.
+
+Am Abend sind wir nochmal in einen McDo und haben Mails an Doro und die Caludia geschickt. Der Grund ist das in uns der Wunsch keimt das Auto doch wieder loszuwerden und ein zuverlässigeres Auto zu bekommen.
+
+Die Nacht haben wir dann wieder auf unserem Lieblingsparkplatz neben dem Countdown in Johnsonville verbracht.
