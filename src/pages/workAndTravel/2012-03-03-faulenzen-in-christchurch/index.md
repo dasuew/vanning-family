@@ -4,7 +4,7 @@ slug: "faulenzen-in-christchurch"
 date: "2012-03-03"
 published: true
 location: "Neuseeland"
-images: ["20110303_image (1).jpg", "20110303_image (2).jpg", "20110303_image (3).jpg", "20110303_image (4).jpg", "20110303_image (5).jpg", "20110303_image (6).jpg"]
+images: ["20120303_image (1).jpg", "20120303_image (2).jpg", "20120303_image (3).jpg", "20120303_image (4).jpg", "20120303_image (5).jpg", "20120303_image (6).jpg"]
 ---
 
 Nach einer regnerischen Nacht im Auto hat mich auch ein regnerischer Morgen begrüßt. Aber da mich der Luxus einer Küche und einer warmen Wohnung in Carlos Unterkunft erwartete war das alles kein Problem. So gab es also ein langes und spätes Frühstück mit viel Kaffee. 
