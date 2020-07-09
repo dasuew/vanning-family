@@ -4,9 +4,7 @@ slug: "into-the-sun"
 date: "2012-01-24"
 published: true
 location: "Neuseeland"
-images: ["../../../images/MG_5824.jpg",
-      "../../../images/MG_5835.jpg",
-      "../../../images/MG_5832.jpg"]
+images: ["20120124_image (1).jpg", "20120124_image (2).jpg", "20120124_image (3).jpg", "20120124_image (4).jpg", "20120124_image (5).jpg"]
 ---
 
 Heute stand mir der Abschied von der Nordinsel bevor und eine Art Neuanfang auf der Südinsel. Da das Wetter abermals nicht besonders toll war in Wellington fiel mir der Abschied nicht schwer. Aus Erfahrung wird man ja außerdem klug und daher habe ich mir heute auch ne Reisetablette eingeworfen. Zu Beginn der Überfahrt war auch alles gut, aber schon bald ging mir der Seegang nahe. Dank des Ratschlages von Caro doch einfach zu schlafen habe ich die Fahrt aber glücklicherweise heil überstanden. Als ich erwacht bin zogen am Fenster Insel am Schiff vorbei und ich dachte schon wir haben uns verfahren. Als ich auf Deck getreten bin hat mich auch direkt die Sonne empfangen und ein Panorama wie auf einer Postkarte. Der Unterschied zwischen den Insel war damit schon jetzt enorm.Die Fähre habe ich dann in Picton verlassen. Picton ist eine recht kleines beschauliches Dorf direkt in einer Bucht. Mehr als ein paar Läden, die Anlegestelle und Landschaft war hier aber für mich auch nicht zu holen.

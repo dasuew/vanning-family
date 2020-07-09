@@ -4,15 +4,7 @@ slug: "welcome-to-sunny-nelson"
 date: "2012-01-27"
 published: true
 location: "Neuseeland"
-images: ["../../../images/MG_5923.jpg",
-        "../../../images/MG_5898.jpg",
-        "../../../images/MG_5890.jpg",
-        "../../../images/MG_5877.jpg",
-        "../../../images/MG_5866.jpg",
-        "../../../images/MG_5858.jpg",
-        "../../../images/MG_5869.jpg",
-        "../../../images/MG_5876.jpg",
-        "../../../images/MG_5919.jpg"]
+images: ["20120127_image (1).jpg", "20120127_image (2).jpg", "20120127_image (3).jpg", "20120127_image (4).jpg", "20120127_image (5).jpg", "20120127_image (6).jpg", "20120127_image (7).jpg", "20120127_image (8).jpg", "20120127_image (9).jpg"]
 ---
 
 Nachdem die Reise von Blenheim nach Nelson am Vortag ohne besondere Vorkommnisse verlaufen ist, habe ich mich auch gleich direkt daran gemacht einen Job zu finden. Erste Anlaufstelle war die Agentur Coverstaff. Dort schreibt man sich in eine Liste ein und hofft das diesen einen nach kurzer Zeit anrufen. Die nette Dame am Empfang hat mir aber gleich gesagt, dass es zurzeit sehr ruhig ist. Hmmm, das kenne ich doch irgendwo her. So schnell gebe ich natürlich nicht auf und noch war die Motivation sehr hoch. Nächstes Ziel waren die Packhäuser von Richmond. Auch hier war die Auskunft allerdings wieder sehr ernüchternd. Die Apfelsaison geht um Nelson erst Ende Februar bzw. Anfang April los. Das bedeutet ich habe zwar wieder Anträge ausgefüllt, aber wieder keinen Job gefunden. Aber ich habe abermals einen Beweis für die Neuseeländische Lockerheit bekommen. In einem der Packhäuser hat die Dame im Büro schief auf meinen Namen geschaut und auf einmal gemeint: \u201eEinen Herrn Nagler haben wir hier auch. Warten Sie mal, ich rufe ihn mal nach vorne.\u201c Also obwohl es keinen Grund bis auf den identischen Namen gab, hat sie jemanden von der Arbeit abgezogen, nur damit man sich unterhalten kann...über was auch immer. Der Namensverwandte kam dann aus der Schweiz und war sehr nett und am Ende haben wir eine \u00be Stunde über alles Mögliche geredet. Jetzt wusste ich mehr über die Arbeit in einem Packhaus und die Verbindungen zu den Plantagen. Außerdem wusste ich nun, dass er mit seiner Neuseeländischen Frau seit vielen Jahren in NZ lebt und in wenigen Monaten Nachwuchs ins Haus steht. Geholfen hat mir das zwar auch nicht, aber es war super nett und man konnte wieder mit Leuten reden. Da es inzwischen schon nach 17Uhr war und damit hier der Feierabend eingeläutet ist konnte ich keine weiteren Versuche starten Arbeit aufzutreiben. Da nun das Wochenende ran war und auch der Montag in Nelson Feiertag war, konnte ich mir nur noch Vorräte besorgen und für die erste Nacht einen netten Parkplatz suchen und das Bett beziehen. Am nächsten Tag habe ich einen Ausflug in die Stadt unternommen und alle Geschäfte abgelaufen und nach Jobangeboten gefragt. In einigen Schreibwarenläden und Buchhandlungen wurden auch Leute gesucht und ich habe meinen Lebenslauf abgegeben. Da dort aber eigentlich nur Leute für Langzeitbeschäftigung gesucht werden, haben Backpacker eigentlich keine Chancen. Ich kann aber festhalten das Nelson eine echt schöne kleine Stadt ist in welcher man sich eine Zeitlang wohlfühlen kann.

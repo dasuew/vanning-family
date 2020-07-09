@@ -4,10 +4,7 @@ slug: "goodbye-australia"
 date: "2012-01-21"
 published: true
 location: "Australien"
-images: ["../../../images/MG_5465.jpg",
-          "../../../images/MG_5787.jpg",
-          "../../../images/MG_5478.jpg",
-          "../../../images/MG_5791.jpg"]
+images: ["20120121_image (1).jpg", "20120121_image (2).jpg", "20120121_image (3).jpg", "20120121_image (4).jpg"]
 ---
 
 Nachdem ja nun Caro gestern schon den Flieger besteigen musste, war es auch heute an mir. Aber bevor es soweit war hieß es noch ein letztes Mal surfen am Maroubra Beach. Nach einer Nacht auf der bequemen Couch gab es Frühstück mit Robert und Marjorie inklusive einem tollen Blick aus dem Fenster auf den Strand. Leider hieß es zunächst warten da diesmal das Wetter nicht auf unserer Seite war. Es regnete die ganze Zeit und war ungemütlich. Also haben wir uns die Zeit damit vertrieben am Computer rum zu spielen. Am Nachmittag klarte der Himmel auf und wir haben uns wieder zu dritt auf die Bretter geschwungen. Heute konnte ich die Chance nutzen und drei verschiedene Größen von Surfbrettern ausprobieren. Ich denke die mittlere Größe war der beste Kompromiss aus Beweglichkeit und Stabilität und auch Marjorie hat gefallen an Roberts Brett gefunden. Die Zeit hält aber auch für mich nicht an und so habe ich mich nach einer schönen Dusche auf den Weg zum Flughafen gemacht. Obwohl ich einen schönen Puffer eingeplant hatte wurde es dank des Busfahrers doch noch knapp. Zum einen hatte er Verspätung und zum anderen ist durch das zügige anfahren eine alte Frau gestürzt und das hat auch die Fahrt noch weiter verzögert. Am Flughafen angekommen konnte ich keinen Check-In für meine Fluggesellschaft finden. Das sorgte für eine gehörige Portion Unruhe. Der Grund war aber nur das man mich auf einen andere Gesellschaft umgebucht hatte. Also alles gut und direkt durch den Sicherheitscheck und diesmal ohne Probleme. Dann noch ein Maxi Menü von Mc Donalds gegönnt und ab in den Flieger. Dieser war nicht einmal voll und ich konnte ausgewählte Serien und Filme kostenlos schauen. So verging die Zeit wie im Fluge...Schenkelklopfer. Die Landung in Wellington war dann erwartungsgemäß turbulent, da der Flughafen direkt an einer windigen Bucht liegt.

@@ -4,10 +4,7 @@ slug: "short-visit-to-blenheim"
 date: "2012-01-25"
 published: true
 location: "Neuseeland"
-images: ["../../../images/MG_5844.jpg",
-        "../../../images/MG_5851.jpg",
-        "../../../images/MG_5847.jpg",
-        "../../../images/MG_5845.jpg"]
+images: ["20120125_image (1).jpg", "20120125_image (2).jpg", "20120125_image (3).jpg", "20120125_image (4).jpg"]
 ---
 
 Die nächsten beiden Tage waren sich sehr ähnlich. Ich habe den Tag die Agenturen und die Hostels angefahren und nach Arbeit gefragt. Außerdem habe ich viele Firmen im Internet angeschrieben, von denen am Ende aber lediglich eine Absage kam und der Rest hat sich gar nicht gemeldet. Ich habe also viel Zeit in der Bibliothek verbracht und die Leitung zum Glühen gebracht. Ich habe mir eine Nacht in einem Hostel gegönnt um meine Sachen zu waschen und um Informationen über die Gegend zu sammeln. Die Ausbeute war leider sehr ernüchtert. Arbeit ist hier hauptsächlich auf Weinfelder zu finden. Leider war ich wieder einmal zur falschen Zeit am richtigen Ort und ich habe die Zeit verpasst in der die Weinfelder für die Saison vorbereitet wurden. Ich wäre wohl aber auch so nicht hier geblieben, da ich sehr oft gehört habe, dass die Bezahlung schlecht ist und auch oft spät oder reduziert auf dem Konto ankommt. Bei so vielen negativen Berichten habe ich mich also gegen Blenheim entschieden.
