@@ -4,8 +4,8 @@ import React from "react"
 
 const Header = ({ siteTitle }) => (
   <header className="bg-purple-900 fixed w-full z-10">
-    <div className="pt-8 pb-8 mx-auto
-                    lg:w-1/3 xl:w-1/3 md:w-1/3 sm:w-full
+    <div className="pt-8 pb-8 mx-auto sm:pl-4 sm:pr-4 
+                    lg:w-2/3 xl:w-2/3 md:w-2/3 sm:w-full
                     text-center lg:text-left xl:text-left md:text-left sm:text-left">
       <div className="text-4xl font-sans font-bold">
         <Link to="/" className="uppercase text-purple-100">
