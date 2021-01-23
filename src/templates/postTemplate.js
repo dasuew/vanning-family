@@ -36,7 +36,7 @@ const Template = ({ data }) => {
 
     return (
         <Layout>
-            <div className="pb-20 flex lg:w-2/3 xl:w-2/3 md:w-2/3 sm:w-full sm:pl-4 sm:pr-4 mx-auto flex-col text-purple-100">
+            <div className="pb-20 flex lg:w-2/3 xl:w-2/3 md:w-2/3 sm:mx-4 mx-auto flex-col text-purple-100">
                 <div className="font-bold text-yellow-500 text-lg">{post.frontmatter.title}</div>
                 <div className="flex flex-col text-sm text-yellow-500 mb-5">
                     <div className="flex items-center text-purple-100">

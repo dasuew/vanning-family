@@ -11,8 +11,8 @@ const IndexPage = ({ data }) => {
   return (
     <Layout>
       <SEO title="Home" />
-      <div className="flex flex-wrap lg:w-1/3 xl:w-1/3 md:w-1/3 sm:w-full sm:pl-4 sm:pr-4 mx-auto">
-      <div class="font-bold text-yellow-500 text-xl uppercase">Deutschland</div>
+      <div className="flex flex-wrap lg:w-2/3 xl:w-2/3 md:w-2/3 sm:mx-4 mx-auto">
+      <div class="mb-4 font-bold text-yellow-500 text-xl uppercase">Deutschland</div>
         {data.allMarkdownRemark.edges
           .map((data, index) =>
             (

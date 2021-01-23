@@ -3,6 +3,7 @@ module.exports = {
     title: `Vanning family`,
     description: `A blog about travel 9 weeks through to sweden and norway with family in a Nugget.`,
     author: `@dasuew`,
+    siteURL: 'https://vanning-family.de'
   },
   pathPrefix: "/",
   plugins: [
